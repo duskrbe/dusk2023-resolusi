@@ -1,0 +1,3 @@
+2023 RESOLUSI
+-Konsisten menggunakan git & github
+-Target belajar javascript,kotlin,AWS cloud
