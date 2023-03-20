@@ -2,4 +2,3 @@
 -Konsisten menggunakan git & github
 -Target belajar javascript,kotlin,AWS cloud
 -Membuat aplikasi android portofolio
--Tes Hapus
